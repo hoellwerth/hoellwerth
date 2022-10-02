@@ -2,7 +2,7 @@
 Hey, I'm Johannes Höllwerth, in the Internet mainly Baumistlustig. I'm doing some developement in my free time, such as API projects with NestJS,
 Front-End Projects with Angular or Minecraft Plugins with the Spigot/Paper API. Other than coding I also love sailing, cycling and building computers!
 
-![](https://komarev.com/ghpvc/?username=Baumistlustig&style=for-the-badge)
+[![](https://visitcount.itsvg.in/api?id=Baumistlustig&label=Profile%20Views&color=0&icon=0&pretty=true)](https://visitcount.itsvg.in)
  [!["Buy Me A Coffee"](https://www.buymeacoffee.com/assets/img/custom_images/orange_img.png)](https://www.buymeacoffee.com/baumistlustig)
 
 ## 📱 Contact
