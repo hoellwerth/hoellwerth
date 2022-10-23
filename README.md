@@ -28,7 +28,7 @@ Or visit my Website [baumistlustig.eu](https://baumistlustig.eu)
 
 ### 🏆 Trophys
 
-![](https://github-profile-trophy.vercel.app/?username=baumistlustig&theme=chalk&no-frame=false&no-bg=true&margin-w=4)
+![](https://github-profile-trophy.vercel.app/?username=baumistlustig&theme=chalk&no-frame=false&no-bg=true&margin-w=4&row=1)
 
 ## 🚧 Projects
 https://baumistlustig.eu/projects
