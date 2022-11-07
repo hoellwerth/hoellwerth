@@ -9,7 +9,7 @@ Hey, I'm Johannes Höllwerth, in the Internet mainly Baumistlustig. In my free-t
 ## 📱 Contact
 If you want to contact me, you can use my mail-address: `johannes.hoellwerth@protonmail.com`
 
-Also, you can DM me on Discord: `Baumistlustig#4200`
+Also, you can DM me on Discord: `Baumistlustig#2054`
 
 Or visit my Website [baumistlustig.eu](https://baumistlustig.eu)
 
