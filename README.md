@@ -1,4 +1,6 @@
-# :bust_in_silhouette: About Me
+# Baumistlustig
+
+## :bust_in_silhouette: About Me
 Hey, I'm Johannes Höllwerth, in the Internet mainly Baumistlustig. In my free-time I work on various projects,
       mostly in the field of software development & electronics. I'm currently a student of Electrical Engineering at
       the [HTL Saalfelden](http://htlsaalfelden.at).
@@ -8,8 +10,6 @@ Hey, I'm Johannes Höllwerth, in the Internet mainly Baumistlustig. In my free-t
 
 ## 📱 Contact
 If you want to contact me, you can use my mail-address: `johannes.hoellwerth@protonmail.com`
-
-Also, you can DM me on Discord: `Baumistlustig#2054`
 
 Or visit my Website [baumistlustig.eu](https://baumistlustig.eu)
 
