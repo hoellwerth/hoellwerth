@@ -27,7 +27,7 @@ Or visit my Website [baumistlustig.eu](https://baumistlustig.eu)
 ![](https://github-profile-trophy.vercel.app/?username=baumistlustig&theme=chalk&no-frame=false&no-bg=true&margin-w=4&row=1)
 
 ## 🚧 Projects
-[Projects](https://baumistlustig.eu/projects) | [Repositories](https://github.com/Baumistlustig?tab=repositories) 
+[Repositories](https://github.com/Baumistlustig?tab=repositories) 
 
 ---
 
