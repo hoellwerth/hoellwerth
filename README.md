@@ -1,6 +1,11 @@
-# Baumistlustig
+# Hey there 👋
 
-## :bust_in_silhouette: About Me
+<p align="center">
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=js,ts,html,css,cpp,py,java,git,docker,angular,nestjs,arduino,linux,mongodb&perline=7" />
+  </a>
+</p>
+
 Hey, I'm Johannes Höllwerth, in the Internet mainly Baumistlustig. In my free-time I work on various projects,
       mostly in the field of software development & electronics. I'm currently a student of Electrical Engineering at
       the [HTL Saalfelden](http://htlsaalfelden.at).
@@ -29,4 +34,4 @@ If you want to contact me, you can use my mail-address: `johannes.hoellwerth@pro
 
 ---
 
-This README.md is powered by [Shields](https://shields.io), [jstrieb/github-stats](https://github.com/jstrieb/github-stats) & [ryo-ma/github-profile-trophy](https://github.com/ryo-ma/github-profile-trophy)
+This README.md is powered by [Shields](https://shields.io), [jstrieb/github-stats](https://github.com/jstrieb/github-stats), [SkillIcons](https://github.com/tandpfun/skill-icons#themed-icons) & [ryo-ma/github-profile-trophy](https://github.com/ryo-ma/github-profile-trophy)
