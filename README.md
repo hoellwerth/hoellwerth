@@ -34,4 +34,4 @@ If you want to contact me, you can use my mail-address: `johannes.hoellwerth@pro
 
 ---
 
-This README.md is powered by [Shields](https://shields.io), [jstrieb/github-stats](https://github.com/jstrieb/github-stats), [SkillIcons](https://github.com/tandpfun/skill-icons#themed-icons) & [ryo-ma/github-profile-trophy](https://github.com/ryo-ma/github-profile-trophy)
+This README.md is powered by [Skillicons](https://skillicons.dev/), [jstrieb/github-stats](https://github.com/jstrieb/github-stats), [SkillIcons](https://github.com/tandpfun/skill-icons#themed-icons) & [ryo-ma/github-profile-trophy](https://github.com/ryo-ma/github-profile-trophy)
