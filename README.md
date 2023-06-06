@@ -1,7 +1,7 @@
 # Hey there 👋
 
 <p align="center">
-  <a href="https://skillicons.dev">
+  <a href="/technologies.md">
     <img src="https://skillicons.dev/icons?i=js,ts,html,css,cpp,py,java,git,docker,angular,nestjs,arduino,linux,mongodb&perline=7" />
   </a>
 </p>
