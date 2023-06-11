@@ -9,7 +9,8 @@
 - 🖥️ Software Developer
 - 👨‍🎓 Student of Electrical Engineering @[HTL Saalfelden](http://htlsaalfelden.at)
 - ⛵ Sailor, skier & cyclist
-- 💻 Using Linux btw
+- 💻 Big [Framework](https://frame.work/) fan
+- 🖥 Using Linux btw
 
 If you want to contact me, you can use my mail-address: `johannes.hoellwerth@protonmail.com` or visit my Website [baumistlustig.eu](https://baumistlustig.eu)
 
