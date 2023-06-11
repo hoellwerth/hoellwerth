@@ -10,7 +10,6 @@ Hey, I'm Johannes Höllwerth, in the Internet mainly Baumistlustig. In my free-t
       mostly in the field of software development & electronics. I'm currently a student of Electrical Engineering at
       the [HTL Saalfelden](http://htlsaalfelden.at).
 
-## 📱 Contact
 If you want to contact me, you can use my mail-address: `johannes.hoellwerth@protonmail.com` or visit my Website [baumistlustig.eu](https://baumistlustig.eu)
 
 <!--## :computer: Technologies
