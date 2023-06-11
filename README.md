@@ -25,9 +25,6 @@ If you want to contact me, you can use my mail-address: `johannes.hoellwerth@pro
 
 ![](https://github-profile-trophy.vercel.app/?username=baumistlustig&theme=chalk&no-frame=false&no-bg=true&margin-w=4&row=1)
 
-## 🚧 Projects
-[Repositories](https://github.com/Baumistlustig?tab=repositories) 
-
 ---
 
 This README.md is powered by [Skillicons](https://skillicons.dev/), [jstrieb/github-stats](https://github.com/jstrieb/github-stats), & [ryo-ma/github-profile-trophy](https://github.com/ryo-ma/github-profile-trophy)
