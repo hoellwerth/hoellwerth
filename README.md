@@ -5,10 +5,11 @@
     <img src="https://skillicons.dev/icons?i=js,ts,html,css,cpp,py,java,git,docker,angular,nestjs,arduino,linux,mongodb&perline=7" />
   </a>
 </p>
-
-Hey, I'm Johannes Höllwerth, in the Internet mainly Baumistlustig. In my free-time I work on various projects,
-      mostly in the field of software development & electronics. I'm currently a student of Electrical Engineering at
-      the [HTL Saalfelden](http://htlsaalfelden.at). I'm also a passionate sailor, skier, cyclist and most importantly, I'm using Linux btw.
+      
+- 🖥️ Software Developer
+- 👨‍🎓 Student of Electrical Engineering @[HTL Saalfelden](http://htlsaalfelden.at)
+- ⛵ Sailor, skier & cyclist
+- 💻 Using Linux btw
 
 If you want to contact me, you can use my mail-address: `johannes.hoellwerth@protonmail.com` or visit my Website [baumistlustig.eu](https://baumistlustig.eu)
 
