@@ -9,9 +9,6 @@
 Hey, I'm Johannes Höllwerth, in the Internet mainly Baumistlustig. In my free-time I work on various projects,
       mostly in the field of software development & electronics. I'm currently a student of Electrical Engineering at
       the [HTL Saalfelden](http://htlsaalfelden.at).
-      
-[![](https://visitcount.itsvg.in/api?id=Baumistlustig&label=Profile%20Views&color=0&icon=0&pretty=true)](https://visitcount.itsvg.in)
- [!["Buy Me A Coffee"](https://www.buymeacoffee.com/assets/img/custom_images/orange_img.png)](https://www.buymeacoffee.com/baumistlustig)
 
 ## 📱 Contact
 If you want to contact me, you can use my mail-address: `johannes.hoellwerth@protonmail.com` or visit my Website [baumistlustig.eu](https://baumistlustig.eu)
