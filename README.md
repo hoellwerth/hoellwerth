@@ -1,4 +1,4 @@
-# Hey there 👋 I'm Johannes Höllwerth
+# Hey there 👋 
 
 <p align="center">
   <a href="/technologies.md">
