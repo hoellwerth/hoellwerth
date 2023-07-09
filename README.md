@@ -10,7 +10,7 @@
 - 👨‍🎓 Student of Electrical Engineering @[HTL Saalfelden](http://htlsaalfelden.at)
 - ⛵ Sailor, skier & cyclist
 - 💻 Big [Framework](https://frame.work/) fan
-- 🖥 Using Linux btw
+- 🖥 Using Linux btw (Fedora & PopOS)
 - ♟️ Chess player
 
 <!--## :computer: Technologies
