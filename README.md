@@ -6,7 +6,7 @@
   </a>
 </p>
       
-- 🖥️ Software Developer
+- 🖥️ Software Engineer
 - 👨‍🎓 Student of Electrical Engineering @[HTL Saalfelden](http://htlsaalfelden.at)
 - ⛵ Sailor, skier & cyclist
 - 💻 Big [Framework](https://frame.work/) fan
