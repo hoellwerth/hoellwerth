@@ -2,7 +2,7 @@
 
 <p align="center">
   <a href="https://hoellwerth.eu">
-    <img src="https://skillicons.dev/icons?i=js,ts,html,css,cpp,py,java,git,docker,angular,nestjs,arduino,linux,mongodb,kicad&perline=7" />
+    <img src="https://skillicons.dev/icons?i=js,ts,html,css,cpp,py,java,git,docker,angular,nestjs,arduino,linux,mongodb&perline=7" />
   </a>
 </p>
       
