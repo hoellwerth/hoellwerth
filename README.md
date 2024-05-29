@@ -2,7 +2,7 @@
 
 <p align="center">
   <a href="https://hoellwerth.eu">
-    <img src="https://skillicons.dev/icons?i=js,ts,html,css,cpp,py,java,git,docker,angular,nestjs,arduino,linux,mongodb&perline=7" />
+    <img src="https://skillicons.dev/icons?i=js,ts,html,css,cpp,py,java,git,docker,angular,nestjs,arduino,linux,mongodb,kicad&perline=7" />
   </a>
 </p>
       
@@ -22,10 +22,6 @@
  <img src="https://github.com/baumistlustig/stats/blob/master/generated/languages.svg#gh-dark-mode-only" />
 </a>
 
-### 🏆 Trophys
-
-![](https://github-profile-trophy.vercel.app/?username=baumistlustig&theme=chalk&no-frame=false&no-bg=true&margin-w=4&row=1)
-
 ---
 
-This README.md is powered by [Skillicons](https://skillicons.dev/), [jstrieb/github-stats](https://github.com/jstrieb/github-stats), & [ryo-ma/github-profile-trophy](https://github.com/ryo-ma/github-profile-trophy)
+This README.md is powered by [Skillicons](https://skillicons.dev/) & [jstrieb/github-stats](https://github.com/jstrieb/github-stats)
