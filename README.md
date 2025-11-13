@@ -6,7 +6,7 @@
   </a>
 </p>
       
-- 🖥️ Embedded Engineer
+- 🖥️ Embedded Engineer @[Hagleitner](https://hagleitner.com)
 - 👨‍🎓 Student of Electrical Engineering @[HTL Saalfelden](http://htlsaalfelden.at)
 - ⛵ Sailor
 - 💻 Big [Framework](https://frame.work/) fan & user
